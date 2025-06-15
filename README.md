@@ -1,6 +1,6 @@
 # Power BI Marketing & Customer Insights Dashboard
 
-This repository hosts a Power BI dashboard that delivers comprehensive analytics on marketing campaign effectiveness and customer behavior. The dashboard is structured to assist marketing teams and business analysts in extracting actionable insights from campaign and customer data.
+This repository hosts a Power BI dashboard that delivers comprehensive analytics on marketing campaign effectiveness and customer behavior. The dashboard is structured to assist marketing teams and business analysts in extracting actionable insights from campaign and customer data. Power BI dashboard is designed to provide actionable insights into marketing campaign performance and customer analysis. The dashboard visualizes key metrics such as campaign acceptance, response rates, profit, customer demographics, product sales, and purchasing behavior. It aims to help businesses optimize marketing strategies and better understand their customer base.
 
 ## Features
 
