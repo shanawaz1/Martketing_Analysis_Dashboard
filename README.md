@@ -32,10 +32,10 @@ This repository hosts a Power BI dashboard that delivers comprehensive analytics
 ## Dashboard Screenshots
 
 ### Marketing Campaign Insights
-![Marketing Campaign Insights](Marketing_Analysis_Dashboard/market_.jpg)
+![Marketing Campaign Insights](market_.jpg)
 
 ### Customer Analysis
-![Customer Analysis](Marketing_Analysis_Dashboard/customer_.jpg)
+![Customer Analysis](customer_.jpg)
 
 ## Getting Started
 
