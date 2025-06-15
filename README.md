@@ -29,11 +29,13 @@ This repository hosts a Power BI dashboard that delivers comprehensive analytics
 
 ## Dashboard Screenshots
 
-### Marketing Campaign Insights
-![Marketing Campaign Insights](https://pplx-res.cloudinary.com/image/private/user_uploads/62499315/065da53e-c3fb-4d3b-abb9-b6a7c2e4df13/image.jpg)
+## Dashboard Screenshots
 
-### Customer Analysis for Marketing
-![Customer Analysis for Marketing](https://pplx-res.cloudinary.com/image/private/user_uploads/62499315/fb2e0e1a-9c1c-42a3-b1f7-0324664e208f/image.jpg)
+### Marketing Campaign Insights
+![Marketing Campaign Insights](Marketing_Analysis_Dashboard/market_.jpg)
+
+### Customer Analysis
+![Customer Analysis](Marketing_Analysis_Dashboard/customer_.jpg)
 
 ## Getting Started
 
