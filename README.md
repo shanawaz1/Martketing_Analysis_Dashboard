@@ -29,7 +29,6 @@ This repository hosts a Power BI dashboard that delivers comprehensive analytics
 
 ## Dashboard Screenshots
 
-## Dashboard Screenshots
 
 ### Marketing Campaign Insights
 ![Marketing Campaign Insights](market_.jpg)
